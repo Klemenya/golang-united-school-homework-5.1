@@ -24,6 +24,3 @@ func (square Square) Perimeter() uint {
 	return square.a * 4
 
 }
-type Point struct {
-	x, y int
-}
